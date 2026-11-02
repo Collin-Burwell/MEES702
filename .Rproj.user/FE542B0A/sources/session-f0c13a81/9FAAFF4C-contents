@@ -1,0 +1,8 @@
+## Activity 11/2/26
+
+install.packages(c(
+  "tidyverse", # Data wrangling with: dplyr, ggplot2, tibble, readr, purrr
+  "plotly",    # Interactive plots
+  "leaflet",   # Interactive maps
+  "quarto"     # Dynamic reports
+))
